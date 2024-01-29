@@ -24,8 +24,8 @@ i am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ```txt
 AWS & AZURE         3 hrs 58 mins   ████████████▓░░░░░░░░░░░░   51.06 %
-Linux    2 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   31.80 %
-Jenkins   1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+Linux & Ubuntu   2 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   31.80 %
+Jenkins & Github Action   1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
 Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
