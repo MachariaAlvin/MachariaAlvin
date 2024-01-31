@@ -1,4 +1,4 @@
-hi, i'm [Alvin Macharia](#), a passionate self-taught DevOps Engineer and a freelance from Kenya. my passion for Learning DevOps engineering enhances efficiency, collaboration, and automation in software development, leading to faster time-to-market, increased scalability, and improved career opportunities in a continuously evolving tech landscape. DevOps skills are in high demand, offering benefits such as cost savings, reliability, and adaptability across various industries.
+hi, i'm [Alvin Macharia](#), a passionate self-taught DevOps Engineer and a freelance from Kenya. my passion for DevOps engineering enhances efficiency, collaboration, and automation in software development, leading to faster time-to-market, increased scalability, and improved career opportunities in a continuously evolving tech landscape. DevOps skills are in high demand, offering benefits such as cost savings, reliability, and adaptability across various industries.
 i am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
